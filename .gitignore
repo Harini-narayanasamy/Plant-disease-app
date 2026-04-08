@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Python virtual environments and cache
+myenv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
